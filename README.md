@@ -1,8 +1,8 @@
 
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+Software Engineer Student - software engineering at university Philadelphia - UniFil.
 
-**About me**
+**Sobre mim**
 
 - 💼 Engenheiro de Software
 
