@@ -1,11 +1,5 @@
 
-<br />
-
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
-
-##
-
-**About me**
+**Sobre mim**
 
 - 💼 Estudante de Engenharia de Software
 
@@ -29,8 +23,8 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 <div align="center">
   <a href="https://github.com/Andre-Bigaran">
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=Andre-Bigaran&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Bigaran&layout=compact&langs_count=7&theme=buefy"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Andre-Bigaran&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Bigaran&layout=compact&langs_count=7&theme=buefy"/>
 </div>
  
 ##
