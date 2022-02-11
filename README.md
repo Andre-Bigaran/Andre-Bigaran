@@ -12,8 +12,6 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
-
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -22,11 +20,17 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
+  ##
 
+<div align="center">
+  <a href="https://github.com/Andre-Bigaran">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andre-Bigaran&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Bigaran&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
 
-| <a href="https://github.com/Andre-Bigaran/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Andre-Bigaran&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Andre's github stats" /></a> | <a href="https://github.com/Andre-Bigaran/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Bigaran&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+  
 
-#### Top Repositories
+ 
 
 
