@@ -13,7 +13,9 @@ Software Engineer Student - software engineering at university Philadelphia - Un
 | <a href="https://github.com/Andre-Bigaran/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Andre-Bigaran&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Andre's github stats" /></a> | <a href="https://github.com/Andre-Bigaran/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Bigaran&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Andre-Bigaran&theme=buefy&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
+ <div> 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Andre-Bigaran&theme=buefy&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</div>
   
 ##
 
