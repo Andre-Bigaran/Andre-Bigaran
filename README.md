@@ -9,12 +9,14 @@ Software Engineer Student - software engineering at university Philadelphia - Un
 - ❤️ Sempre a procura de novos conhecimentos
 
   ##
+<div aling="center">
+ <a href="https://github.com/Andre-Bigaran/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Andre-Bigaran&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Andre's github stats" /></a>  <a href="https://github.com/Andre-Bigaran/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Bigaran&layout=compact&theme=buefy&hide_border=true" /></a> 
+  
+</div>
 
- <a href="https://github.com/Andre-Bigaran/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Andre-Bigaran&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Andre's github stats" /></a>  <a href="https://github.com/Andre-Bigaran/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Bigaran&layout=compact&theme=buefy&hide_border=true" /></a> 
+  <div>
 
-
-  <div aling="center">
-      <a src="" aling="center">http://github-readme-streak-stats.herokuapp.com?user=Andre-    Bigaran&theme=buefy&date_format=M%20j%5B%2C%20Y%5D</a>
+   <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
   </div>
 
   
