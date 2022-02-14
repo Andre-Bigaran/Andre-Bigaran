@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/andr%C3%A9-vitor-bigaran-santos-622a07202/"><i>André Vitor</i></a> 😃️</h1>
+  <h1 align="center">Olá, Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/andr%C3%A9-vitor-bigaran-santos-622a07202/"><i>André Vitor</i></a> 😃️</h1>
   <p align="center">Estudo Engenharia de Software no <a href="https://www.linkedin.com/school/unifillondrina//"><i>Centro Universitário Filadélfia</i></a> 
   <a align="rigth"  href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank">
 </div>
