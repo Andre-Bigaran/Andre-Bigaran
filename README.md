@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Seja bem vindo ao meu GitHub 😃️</h1>
-  <p >Olá, Tudo bem? Muito prazer eu sou o André Vitor tenho 18 anos, atualmente estou estudando Engenharia de Software no <a href="https://www.linkedin.com/school/unifillondrina//"><i>Centro Universitário Filadélfia.</i></a> Particularmente gosto de estar sempre atualizando meus conhecimentos, aprendizados, buscando novas tecnologias, resolvendo problemas, saindo da zona de conforto e nunca ficando acomodado. 
+  <p >Olá, Tudo bem? Muito prazer eu sou o André Vitor tenho 18 anos, atualmente estudo Engenharia de Software no <a href="https://www.linkedin.com/school/unifillondrina//"><i>Centro Universitário Filadélfia.</i></a> Particularmente gosto de estar sempre atualizando meus conhecimentos, aprendizados, buscando novas tecnologias, resolvendo problemas, saindo da zona de conforto e nunca ficando acomodado. 
    <p > Estudo e trabalho utilizando tecnologias como:
 
   <div align="center" valign="top"><br>
