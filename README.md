@@ -22,25 +22,6 @@
 
 ##
 
-**Soft Skills**
-
-- Comunicação
-- Trabalho em equipe
-- Paciência
-- Responsabilidade
-- Positividade
-- Solução de problemas
-- Curiosidade
-- Pensamento criativo
-- Atenção para ouvir
-- Gerenciamento do tempo
-- Habilidade para ser multitasking
-- Capacidade de planejamento
-- Empatia
-- Liderança
-- Flexibilidade e resiliência
-- Pensamento crítico
-
 ##
 
 <div align="center">
