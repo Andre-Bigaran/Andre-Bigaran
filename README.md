@@ -18,7 +18,7 @@ Neste repositório, você encontrará uma variedade de projetos nos quais tenho 
 
 Se você tiver alguma pergunta, ideia de colaboração ou simplesmente quiser entrar em contato, você pode me encontrar nas seguintes plataformas:
 
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-bigaran/)
+- **LinkedIn:** [Andre Bigaran](https://www.linkedin.com/in/andr%C3%A9-bigaran/)
 - **E-mail:** av.bigaran@gmail.com
 
 Agradeço por visitar meu perfil do GitHub. Vamos colaborar e construir coisas incríveis juntos!
