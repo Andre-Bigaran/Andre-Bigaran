@@ -1,34 +1,21 @@
-<div>
-  <h1 align="center">Seja bem vindo ao meu GitHub 😃️</h1>
-  <p >Olá, Tudo bem? Muito prazer eu sou o André Vitor, tenho 18 anos e estudo Engenharia de Software no <a href="https://www.linkedin.com/school/unifillondrina//"><i>Centro Universitário Filadélfia.</i></a> Particularmente gosto de estar sempre atualizando meus conhecimentos, aprendizados, buscando novas tecnologias, resolvendo problemas, saindo da zona de conforto e nunca ficando acomodado. 
-   <p > Estudo e trabalho utilizando tecnologias como:
 
-  <div align="center" valign="top"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="booststrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-  <img align="center" alt="ionic" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
-  <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  </div><br>
-  
-</div>
+    Olá, eu sou André Bigaran
+Bem-vindo ao meu perfil do GitHub! Sou um analista de sistemas na Tata Consultancy Services (TCS) e apaixonado por tecnologia. Aqui você encontrará projetos e contribuições relacionados ao meu trabalho e às minhas paixões na área de desenvolvimento de software.
 
-##
+Minhas habilidades e interesses
+Desenvolvimento de software: Tenho experiência em linguagens como Java, C# e Python, e estou sempre em busca de aprimorar minhas habilidades nessa área.
+Análise de sistemas: Tenho conhecimentos em análise de requisitos e design de sistemas eficientes e escaláveis.
+Banco de dados: Possuo experiência em bancos de dados relacionais e não relacionais, além de consultas SQL e modelagem de dados.
+Testes e qualidade: Valorizo a qualidade do software e aplico práticas de teste rigorosas para garantir sistemas funcionais e confiáveis.
+Explorando tecnologias emergentes: Tenho interesse em tecnologias como inteligência artificial, aprendizado de máquina e desenvolvimento web.
+Projetos e contribuições
+Neste repositório, você encontrará uma variedade de projetos nos quais tenho trabalhado. Eles podem incluir exemplos de código, projetos pessoais e contribuições para projetos de código aberto. Fique à vontade para explorar, contribuir e fornecer feedback.
 
-<div align="center">
-  <a href="https://github.com/Andre-Bigaran">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Andre-Bigaran&show_icons=true&theme=buely&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Bigaran&layout=compact&langs_count=7&theme=buely"/>
-  </a>
-</div>
+Contato
+Se você tiver alguma pergunta, ideia de colaboração ou simplesmente quiser entrar em contato, você pode me encontrar nas seguintes plataformas:
 
-<br>
+LinkedIn: https://www.linkedin.com/in/andr%C3%A9-bigaran/
+E-mail: av.bigaran@gmail.com
+Agradeço por visitar meu perfil do GitHub. Vamos colaborar e construir coisas incríveis juntos!
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/andr%C3%A9-vitor-bigaran-santos-622a07202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:andrevbigaran12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%"></a>
-</div>
 
