@@ -1,6 +1,6 @@
 ## Olá, eu sou André Bigaran!
 
-Bem-vindo ao meu perfil do GitHub! Sou um analista de sistemas na Tata Consultancy Services (TCS) e apaixonado por tecnologia. Aqui você encontrará projetos e contribuições relacionados ao meu trabalho e às minhas paixões na área de desenvolvimento de software.
+Bem-vindo ao meu perfil do GitHub! Sou desenvolvedor Full-Stack na CreativeCode e apaixonado por tecnologia. Aqui você encontrará projetos e contribuições relacionados ao meu trabalho e às minhas paixões na área de desenvolvimento de software.
 
 ### Minhas habilidades e interesses
 
